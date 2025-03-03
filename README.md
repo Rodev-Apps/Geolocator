@@ -109,13 +109,9 @@ If you would like to contribute or have ideas to the future development of this 
 ## Questions
 Please feel free to reach out to the team with any questions about this project at:
 
-[ranjit.makwana@gmail.com](mailto:ranjit.makwana@gmail.com). 
-
 ...
 
-You can also check out our Github profiles: [ranjmak](https://github.com/ranjmak).
-
-...
+##### Thanks Rodevs. [![Asset 6](https://github.com/user-attachments/assets/68f9789a-068a-41f9-a5b0-4c2c3ae10024)](https://www.linkedin.com/in/rodevs/)  [![Asset 2](https://github.com/user-attachments/assets/2c92f667-8613-4e33-aa9c-75281f2feb48)](https://www.facebook.com/profile.php?id=100095082984128)  [![Asset 4](https://github.com/user-attachments/assets/8b09094b-81d7-403e-9c08-980b28dc4c67)](https://x.com/Rodevs23?mx=2)
 
 ---
 
